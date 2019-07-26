@@ -32,9 +32,6 @@ npm run start
 ```
 
 Some basic pictures of the app layout:
+https://imgur.com/a/lpqZQVF
 
-![pic]("https://imgur.com/7xZXxlw")
-![pic](https://imgur.com/BA1QgwF)
-![pic](https://imgur.com/K4w1M7l)
-![pic](https://imgur.com/95I9B3X)
-![pic](https://imgur.com/Vc5wgOT)
+The basic functionality with matching is there, still a lot to add but it was a 2 week project spring and our first big project.
