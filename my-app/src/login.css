@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+body{
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-right: 0%;
+  margin-left: 0%;
+}
+
+.btnFacebook { 
+    width: 300px;
+    height:40px;  
+    border-radius: 3px;
+    background:transparent;
+    color:white;
+    border:2px solid;  
+    text-align: center;
+    margin:5px;
+    display: inline-block;
+    border-radius: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 60%;
+  }
+
+.font{
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 3px;
+text-align: center;
+width: 300px;
+font-weight: inherit;
+}
+.font2{
+  font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    width: 300px;
+    text-align: center;
+}
+.font3{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  width: 260px;
+  text-align: center;
+}
