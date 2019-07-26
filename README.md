@@ -33,7 +33,7 @@ npm run start
 
 Some basic pictures of the app layout:
 
-![pic](https://imgur.com/7xZXxlw)
+![pic]("https://imgur.com/7xZXxlw")
 ![pic](https://imgur.com/BA1QgwF)
 ![pic](https://imgur.com/K4w1M7l)
 ![pic](https://imgur.com/95I9B3X)
